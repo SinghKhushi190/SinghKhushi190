@@ -102,34 +102,12 @@ jobs:
 
 </details>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SinghKhushi190&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 
 ## ✍️ Random Dev Quote
 
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 📌 Top Contributed Repositories
-
-<div align="center">
-
-[![projectx](https://github-readme-stats.vercel.app/api/pin/?username=SinghKhushi190&repo=projectx&theme=dark)](https://github.com/SinghKhushi190/projectx)
-[![open-source-initiatives](https://github-readme-stats.vercel.app/api/pin/?username=SinghKhushi190&repo=open-source-initiatives&theme=dark)](https://github.com/SinghKhushi190/open-source-initiatives)
 
 </div>
 
