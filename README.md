@@ -1,9 +1,3 @@
-<div align="center">
-
-# Hi there 👋
-
-</div>
-
 ---
 
 ## 🔥 About Me:
