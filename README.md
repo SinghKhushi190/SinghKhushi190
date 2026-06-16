@@ -1,10 +1,7 @@
----
 
-## 🔥 About Me:
+## 💫 About Me:
 
 Passionate about coding and building useful projects. Enjoy solving problems, learning new technologies, and improving skills every day. Always motivated to create better solutions and grow as a developer.
-
----
 
 ## 🌐 Socials:
 
