@@ -23,8 +23,7 @@ Passionate about coding and building useful projects. Enjoy solving problems, le
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SinghKhushi190&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=SinghKhushi190&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!--
 **SinghKhushi190/SinghKhushi190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
