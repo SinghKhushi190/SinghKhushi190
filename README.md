@@ -73,7 +73,7 @@ Passionate about coding and building useful projects. Enjoy solving problems, le
 
 <details>
 <summary>Click to see snake workflow YAML</summary>
-z
+
 ```yaml
 name: Generate Snake
 
