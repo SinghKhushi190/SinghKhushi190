@@ -44,8 +44,6 @@ Passionate about coding and building useful projects. Enjoy solving problems, le
 
 ![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinghKhushi190&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SinghKhushi190&theme=dark&hide_border=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghKhushi190&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
