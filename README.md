@@ -36,17 +36,6 @@ Passionate about coding and building useful projects. Enjoy solving problems, le
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghKhushi190&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
 
 ## 🐍 GitHub Contribution Snake
 
