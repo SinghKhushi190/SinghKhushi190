@@ -45,15 +45,6 @@ Passionate about coding and building useful projects. Enjoy solving problems, le
 
 </div>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
